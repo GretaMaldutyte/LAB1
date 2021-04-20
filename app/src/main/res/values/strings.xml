@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FinTech_LAB1_Greta</string>
+    <string name= "btn_do_smth">Click!</string>
+    <string name="changed_label_text">Thanks for clicking!</string>
 </resources>
